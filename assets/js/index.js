@@ -12,7 +12,7 @@
         // for better relative/absolute positioning.
 
         //$("#blog-logo").prependTo("#site-head-content");
-        $("#copyright-dates").html("2008-" + (new Date).getFullYear());
+        $("#copyright-dates").html(copyright_start + "-" + (new Date).getFullYear());
 
     });
 
