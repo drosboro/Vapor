@@ -12,7 +12,6 @@
         // for better relative/absolute positioning.
 
         //$("#blog-logo").prependTo("#site-head-content");
-        $("#copyright-dates").html(copyright_start + "-" + (new Date).getFullYear());
 
     });
 

@@ -30,6 +30,9 @@
 
     <script type="text/javascript">
         {{> config}}
+        $(document).ready(function(){
+            $("#copyright-dates").html(copyright_start + "-" + (new Date).getFullYear());
+        });
     </script>
     <script type="text/javascript" src="/assets/js/index.js"></script>
 
