@@ -183,7 +183,6 @@ section.author p.bio {
   line-height: 1.4em;
 }
 blockquote {
-  font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
   font-weight: 300;
   font-style: italic;
   border-left: 0.5em solid rgba(0, 0, 0, 0.05);
@@ -191,7 +190,6 @@ blockquote {
   padding-left: 1em;
 }
 blockquote p {
-  font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
   font-weight: 300;
   font-style: italic;
 }
